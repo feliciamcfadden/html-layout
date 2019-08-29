@@ -1,0 +1,54 @@
+body, html{
+    margin: 0;
+    padding:0;
+    
+    }
+    .box1 {
+    
+        background-color: lightgray;
+        height: 15%;
+        width: 100%;
+        padding: 25px;
+    
+    }
+    .minibox{
+    
+        background-color: rgb(27, 107, 255);
+        width: 100px;
+        height: 100px;
+        
+    }
+    
+    .box2{
+    
+        background-color: white;
+        width: 100%;
+        padding:50px;
+        box-sizing: border-box;
+        
+    
+    }
+    .box3 {
+    
+        background-color: rgb(27, 107, 255);
+        height: 15vh;
+        width: 100%;
+    }
+    .box4 {
+    
+        background-color: rgb(27, 255, 187);
+        height: 15vh;
+        width: 100%;
+    }
+    .box5 {
+    
+        background-color: rgba(182, 250, 24, 0.753);
+        height: 15vh;
+        width: 100%;
+    }
+    .box6 {
+    
+        background-color: rgb(251, 255, 27);
+        height: 15vh;
+        width: 100%;
+    }
